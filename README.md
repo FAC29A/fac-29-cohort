@@ -5,3 +5,7 @@
 - [Cohort Expectations](expectations.md)
 - [User Manuals](https://github.com/FAC29A/user-manuals)
 - [Project Timetable](timetable.md)
+
+
+## Essentials
+- [Code Review Template](https://github.com/FAC29A/code-reviews)
